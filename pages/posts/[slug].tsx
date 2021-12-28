@@ -9,7 +9,7 @@ import Link from 'next/link';
 import path from 'path';
 import React from 'react';
 import Layout from '../../components/Layout';
-import DemoWidget from '../../components/widgets/DemoWidget';
+import DemoWidget from '../../components/widgets/DemoWidget/DemoWidget';
 import { MetaProps } from '../../types/layout';
 import { PostType } from '../../types/post';
 import { POSTS_PATH } from '../../utils/constants';
